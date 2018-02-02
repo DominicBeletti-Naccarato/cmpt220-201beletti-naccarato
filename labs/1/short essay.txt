@@ -1,0 +1,5 @@
+The waterfall method starts with clear and strict requirements for a project. The requirements 
+tend to not change throughout the process and are set up front. If any change occurs the hope is that 
+it is a minor change. Agile approaches help teams respond to unpredictability through incremental, iterative work cadences
+and empirical feedback. It is superior to the waterfall appraosh as it is flexible to change and issues that
+arise through the project while allowing prototypes to be finished quicker with less planning.
