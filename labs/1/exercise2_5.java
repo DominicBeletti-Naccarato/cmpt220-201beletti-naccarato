@@ -11,7 +11,7 @@ public class exercise2_5 {
 		double gratuityRate = input.nextInt();
 
 		//calculate Gratuity 
-		double gratuity =(gratuityRate/10);
+		double gratuity =subtotal * (gratuityRate/100); // JA
 		//add gratuity to subtotal to create total cost
 		double total = gratuity + subtotal;
 		
