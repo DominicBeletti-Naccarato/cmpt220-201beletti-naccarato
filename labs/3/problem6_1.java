@@ -1,4 +1,4 @@
-public class6_1 {
+public class problem6_1 { // JA
 	
 	public static void main(String[] args) {
 		final int NUMBER_OF_PENTAGONALS = 100; // Display the first 100 pentagonals

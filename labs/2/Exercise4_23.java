@@ -22,7 +22,8 @@ public class Exercise4_23 {
 			"Employee Name: " + name + 
 			"\nHours Worked: " + hoursWorked +
 			"\nPay Rate: $" + hourlyPayRate +
-			"\nGross Pay: $" + (grossPay = hoursWorked * hourlyPayRate) +
+			// JA: You should not set variables inside a print
+			"\nGross Pay: $" + (grossPay = hoursWorked * hourlyPayRate) + 
 			"\nDeductions:\n   Federal Witholding (20.0%): $" +
 			(federal = grossPay * federalTaxRate) +
 			"\n   State Witholding (9.0%): $" + (state = grossPay * stateTaxRate) +
