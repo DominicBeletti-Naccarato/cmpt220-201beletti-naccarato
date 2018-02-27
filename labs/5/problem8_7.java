@@ -27,6 +27,7 @@ public class problem8_7 {
 		}
 
 		// Display result
+		// JA: Display the third coordinate
 		System.out.println("The closest two points are " +
 			"(" + points[p1][0] + ", " + points[p1][1] + ") and (" +
 				points[p2][0] + ", " + points[p2][1] + ")");
@@ -35,6 +36,6 @@ public class problem8_7 {
 	public static double distance(
 		double x1, double y1, double z1, double x2, double y2, double z2) {
 		return Math.sqrt(Math.pow(x2 - x1, 2) +  
-			Math.pow(y2 - y1, 2) + Math.pow(y2 - y1, 2));
+			Math.pow(y2 - y1, 2) + Math.pow(z2 - z1, 2)); // JA
 	}
 }
