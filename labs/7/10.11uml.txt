@@ -1,0 +1,17 @@
+/**************************************************
+*                     Circle2D                    *
+*-------------------------------------------------*
+* -x: double                                      *
+* -y: double                                      *
+* -radius: double                                 *
+* +Circle2D()                                     *
+* +Circle2D(x: double, y: double, radius: double) *
+* +getX(): double                                 *
+* +getY(): double                                 *
+* +getRadius(): double                            *
+* +getArea(): double                              *
+* +getPerimeter(): double                         *
+* +contains(x: double, y: double): boolean        *
+* +contains(Circle2D: circle): boolean            *
+* +overlaps(Circle2D: circle): boolean            *
+**************************************************/
