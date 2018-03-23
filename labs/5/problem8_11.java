@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class problem8_11 {
 
     public static void main(String[] args) {
