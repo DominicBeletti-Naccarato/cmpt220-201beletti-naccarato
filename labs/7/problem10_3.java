@@ -1,3 +1,4 @@
+// JA: Where is MyInteger class
 public class problem10_3 {
 
 	public static void main(String[] args) {

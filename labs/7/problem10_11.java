@@ -1,3 +1,5 @@
+// JA: Where is the Circle2D class defined?
+
 public class problem10_11 {
 	public static void main(String[] args) {
 		Circle2D c1 = new Circle2D(2, 2, 5.5);

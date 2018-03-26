@@ -1,3 +1,5 @@
+// JA: Where is the Course class defined?
+
 public class problem10_9 {
 	public static void main(String[] args) {
 		Course math101 = new Course("math101");
