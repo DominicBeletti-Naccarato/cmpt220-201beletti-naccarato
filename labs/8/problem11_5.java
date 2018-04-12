@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+// JA: No main method?
 
 public class problem11_5 {
 
