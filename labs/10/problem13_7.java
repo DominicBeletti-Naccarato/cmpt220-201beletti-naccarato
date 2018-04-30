@@ -2,6 +2,7 @@ import ToolKit.Circle2D;
 import ToolKit.GeometricObject;
 import ToolKit.MyRectangle2D;
 
+// JA: Some of these classes are missing
 
 public class problem13_7 {
 

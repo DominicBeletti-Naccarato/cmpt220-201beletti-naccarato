@@ -1,4 +1,4 @@
-
+// JA: Where is the Kit class defined?
 
 import java.util.ArrayList;
 import java.util.Collections;

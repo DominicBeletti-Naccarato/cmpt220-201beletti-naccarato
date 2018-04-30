@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-
+// JA: Worng exercise. It was 12.13
 public class problem12_12 {
 	/** Main method */
 	public static void main(String[] args) throws Exception {

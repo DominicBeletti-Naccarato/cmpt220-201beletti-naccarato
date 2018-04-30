@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// JA: Where is the IllegalTriangleException class?
 public class Exercise_12_05 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
